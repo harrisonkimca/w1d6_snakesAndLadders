@@ -56,7 +56,7 @@
             {
                 self.currentSquare = specialSquare;
                 //NSLog(@"Stairway to heaven! You jumped to %ld", self.currentSquare);
-                NSLog(@"Stairway to heaven! You jumped to %ld to %ld", specialSquare, previousSquare);
+                NSLog(@"Stairway to heaven! You jumped to %ld from %ld", specialSquare, previousSquare);
             }
             
         }
